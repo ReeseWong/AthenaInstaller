@@ -15,13 +15,15 @@ USERNAME: testuser@example.com
 
 PASSWORD: test123
 
-License
+**License**
 
 Commercial software — all rights reserved.
 For evaluation access or partnership inquiries, please contact the Athena team.
 
-Contact
+**Contact**
 
 Have questions or want to request a demo?
+
 Reach out at: reesewong33@gmail.com
+
 Website: https://www.outreachgames.com/athena
