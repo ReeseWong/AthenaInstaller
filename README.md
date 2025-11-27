@@ -1,7 +1,5 @@
-
-//////////////////////
 **Athena Shop Management**
-//////////////////////
+
 Paper’s simplicity, cloud’s capability.
 
 **Getting Started**
@@ -14,6 +12,7 @@ Paper’s simplicity, cloud’s capability.
 **DEFAULT LOGIN CREDENTIALS**
 
 USERNAME: testuser@example.com
+
 PASSWORD: test123
 
 License
